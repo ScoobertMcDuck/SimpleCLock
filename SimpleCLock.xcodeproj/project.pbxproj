@@ -13,6 +13,7 @@
 		1A44A9262B6EAFFD00A62D34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A44A9242B6EAFFD00A62D34 /* Main.storyboard */; };
 		1A44A9282B6EAFFF00A62D34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A44A9272B6EAFFF00A62D34 /* Assets.xcassets */; };
 		1A44A92B2B6EAFFF00A62D34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A44A9292B6EAFFF00A62D34 /* LaunchScreen.storyboard */; };
+		1A44A9332B6F184F00A62D34 /* Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1A44A9322B6F184E00A62D34 /* Song.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1A44A9272B6EAFFF00A62D34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A44A92A2B6EAFFF00A62D34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A44A92C2B6EAFFF00A62D34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A44A9322B6F184E00A62D34 /* Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Song.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1A44A91D2B6EAFFD00A62D34 /* SimpleCLock */ = {
 			isa = PBXGroup;
 			children = (
+				1A44A9322B6F184E00A62D34 /* Song.mp3 */,
 				1A44A91E2B6EAFFD00A62D34 /* AppDelegate.swift */,
 				1A44A9202B6EAFFD00A62D34 /* SceneDelegate.swift */,
 				1A44A9222B6EAFFD00A62D34 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A44A9332B6F184F00A62D34 /* Song.mp3 in Resources */,
 				1A44A92B2B6EAFFF00A62D34 /* LaunchScreen.storyboard in Resources */,
 				1A44A9282B6EAFFF00A62D34 /* Assets.xcassets in Resources */,
 				1A44A9262B6EAFFD00A62D34 /* Main.storyboard in Resources */,
